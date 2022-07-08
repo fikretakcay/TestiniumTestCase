@@ -1,2 +1,13 @@
 # TestiniumTestCase
- 
+-Go to the specified url : "- https://www.kitapyurdu.com/".
+-Checking mainPage openning.
+-Writing to productSearchBox "Roman/Novel" from ExcelFile.
+-Chosing random item from List.
+-Click to addToCart button.
+-Checking from Cart Icon from right side top of page.
+-Click to goToCart button.
+-Add same product +1.
+-Click RefreshButton.
+-Checking UpdatingCartText.
+-Click to the RemoveCartButton.
+-Checking to BasketPage. 
